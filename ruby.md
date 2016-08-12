@@ -1,5 +1,5 @@
-#Ruby
-##A summary of what's covered in ruby 
+# Ruby
+## A summary of what's covered in ruby 
 * Introduction
 * Classes and Methods
 * Inheritance
