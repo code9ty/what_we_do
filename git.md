@@ -3,7 +3,7 @@
 >control system designed to handle everything from 
 >small to very large projects with speed and efficiency.
 >
- ### You will learn a lot about git including: -
+ __You will learn a lot about git including:__
  * Installing git
  * Repositories
  * Tracking changes
